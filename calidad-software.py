@@ -6,6 +6,7 @@ def calcular_igv(precio, impuesto):
 def verificar_cliente(cliente):
     if cliente == None:
         print("Cliente no encontrado")
+        
     else:
         print("Cliente registrado")
 
